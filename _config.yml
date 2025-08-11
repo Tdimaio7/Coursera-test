@@ -1,0 +1,9 @@
+yaml
+title: Cousera-test
+description: Este es mi sitio web creado con GitHub Pages y Jekyll.
+theme: jekyll-theme-cayman
+author: Tomas Dimaio
+email: tomasdimaio12@gmail.com
+show_downloads: false
+github:
+  is_project_page: true
